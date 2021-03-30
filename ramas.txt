@@ -1,5 +1,9 @@
 creacion de ramas
 
+<<<<<<< HEAD
 creo develop cambiooo
+=======
+creo develop
+>>>>>>> login
 
 login cambio
