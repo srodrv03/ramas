@@ -11,10 +11,5 @@ cre inicio
 
 cambiamos
 
-pollon
-=======
-cambiamos
->>>>>>> registro
-wertwertwe
-ddddddd
+
 sssss
