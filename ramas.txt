@@ -5,9 +5,13 @@ creo develop cambiooo
 login cambio
 
 creamos rfegistro
+<<<<<<< HEAD
 
 cre inicio
 
 cambiamos
 
 pollon
+=======
+cambiamos
+>>>>>>> registro
