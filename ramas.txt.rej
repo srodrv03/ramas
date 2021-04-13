@@ -1,0 +1,10 @@
+diff a/ramas.txt b/ramas.txt	(rejected hunks)
+@@ -8,4 +8,6 @@
+ 
+ cre inicio
+ 
+-cambiamos
+\ No newline at end of file
++cambiamos
++
++pollon
