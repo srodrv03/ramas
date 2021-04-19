@@ -16,7 +16,13 @@ sssss
 
 aaaaaa develñog 
 AEFASESFA
+<<<<<<< HEAD
 
 
+HOLA ESTO ES UN CAMBIO DESDE OTRO USUARIO
 ESTO ES MI CAMBIO
+prueba =======
 prueba 
+
+esto es una prueba
+>>>>>>> prueba1
