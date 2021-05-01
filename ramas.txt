@@ -26,3 +26,9 @@ prueba
 
 esto es una prueba
 >>>>>>> prueba1
+
+
+
+creo el pull
+
+linea 1
