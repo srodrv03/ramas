@@ -30,3 +30,9 @@ esto es una prueba
 
 
 creo el pull
+<<<<<<< HEAD
+=======
+
+linea 1
+añado linea 2
+>>>>>>> fa3e7a632527bcd59083efc0e24273448d67ef9c
